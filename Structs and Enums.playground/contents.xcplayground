@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Defining a Struct'/>
+        <page name='Initializing a Struct'/>
+        <page name='Accessing Properties'/>
+        <page name='Advanced Structs'/>
+        <page name='Enums'/>
+        <page name='Enum Syntax'/>
+        <page name='Raw Values'/>
+        <page name='Enums and Switch Statements'/>
+        <page name='Enum Initialization'/>
+        <page name='Exercise Solutions'/>
+    </pages>
+</playground>

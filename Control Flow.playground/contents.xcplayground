@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='If Statements'/>
+        <page name='If Else, Else If, and Nested Conditionals'/>
+        <page name='If Statements Exercise - The Club'/>
+        <page name='Switch Statements'/>
+        <page name='For-Each Loops'/>
+        <page name='While and Repeat While Loops'/>
+        <page name='Exercise Solutions'/>
+    </pages>
+</playground>

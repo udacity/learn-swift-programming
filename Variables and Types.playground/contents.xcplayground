@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Your First Lines of Swift'/>
+        <page name='Variables and Data Types'/>
+        <page name='Constants'/>
+        <page name='Tips With String Literals'/>
+        <page name='Exercise Solutions'/>
+    </pages>
+</playground>

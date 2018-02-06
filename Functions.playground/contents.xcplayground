@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Function Syntax'/>
+        <page name='Functions with Params'/>
+        <page name='Function Scope'/>
+        <page name='Returning Values'/>
+        <page name='Default Parameters'/>
+        <page name='Chaining Functions Together'/>
+        <page name='Internal and External Parameter Names'/>
+        <page name='Exercise Solutions'/>
+    </pages>
+</playground>
