@@ -4,6 +4,7 @@
         <page name='Your First Lines of Swift'/>
         <page name='Variables and Data Types'/>
         <page name='Constants'/>
+        <page name='Naming Variables and Constants'/>
         <page name='Tips With String Literals'/>
         <page name='Exercise Solutions'/>
     </pages>
