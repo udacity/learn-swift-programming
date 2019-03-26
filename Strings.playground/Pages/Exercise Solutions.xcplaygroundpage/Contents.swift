@@ -3,7 +3,7 @@ import Foundation
 //: ## Exercise Solutions
 //: Practice: Spam Filter
 func checkLength(message: String) -> Bool {
-    return message.characters.count >= 10 && message.characters.count <= 10000
+    return message.count >= 10 && message.count <= 10000
 }
 //: Practice: Case Insensitive Search
 func search(s1: String, s2: String) -> Bool {
@@ -11,19 +11,19 @@ func search(s1: String, s2: String) -> Bool {
 }
 //: Practice: Is Palindrome?
 func isPalindrome(input: String) -> Bool {
-    return String(input.characters.reversed()) == input
+    return String(input.reversed()) == input
 }
 //: Practice: Remove First N Elements
 func remove(input: String, first: Int, last: Int) -> String {
     var newString = input
-    if first + last > input.characters.count {
+    if first + last > input.count {
         return ""
     }
     for _ in 0..<first {
-        newString.characters.removeFirst()
+        newString.removeFirst()
     }
     for _ in 0..<last {
-        newString.characters.removeLast()
+        newString.removeLast()
     }
     return newString
 }
